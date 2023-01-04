@@ -1,0 +1,11 @@
+#mybtn {
+    margin: 20px;
+    background-color: aquamarine;
+    border-color: rgba(50, 50, 50, 0.6);
+    border-radius: 5px;
+}
+
+#mybtn:hover {
+    background-color: rgb(138, 233, 225);
+    border-color: rgba(50, 50, 50, 0.4);
+}
